@@ -45,12 +45,13 @@ main #home {
 }
 
 main #home .image {
-  background-image: url("../img/wallpaper.webp");
+  background-image: url("../img/wallpaper.jpg");
   background-position: center left;
   background-attachment: fixed;
   background-size: cover;
   filter: brightness(50%);
   height: 300px;
+  width: 100%;
 }
 
 main #home .text {
