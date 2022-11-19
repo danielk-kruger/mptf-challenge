@@ -45,7 +45,7 @@ main #home {
 }
 
 main #home .image {
-  background-image: url("../img/wallpaper.jpg");
+  background-image: url("../img/wallpaper.webp");
   background-position: center left;
   background-attachment: fixed;
   background-size: cover;
